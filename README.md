@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**andresanchetta/andresanchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I? 
 
-Here are some ideas to get you started:
+* 💻 Data Scientist.
+* 🎓 Bachelor of Eletrical Engeneering -UTFPR- Class of 2018
+* 🎓 Especialization in Data Analysis -Faculdade Descomplica- In Progress.
+* 🎓 MBA in Big Data and Competitive Intelligenge -Faculdade Descomplica- In Progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills 👩‍💻
+
+* 🐍 Python.
+* 📈 R.
+* 🗄 SQL.
+* 🧮 Power BI.
+* 📊 Data Visualization
+
+## Find me on Linkedin:
+
+*  [Linkedin]( https://www.linkedin.com/in/andresanchetta/)
+
+## **My projects**
+
+IN PROGRESS.
