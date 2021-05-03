@@ -10,14 +10,11 @@
 ## Skills 👩‍💻
 
 * 🐍 Python.
-* 📈 R.
 * 🗄 SQL.
 * 🧮 Power BI.
 * 📊 Data Visualization
 
-## Find me on Linkedin:
-
-*  [Linkedin]( https://www.linkedin.com/in/andresanchetta/)
+## Find me on [Linkedin]( https://www.linkedin.com/in/andresanchetta/).
 
 ## **My projects**
 
