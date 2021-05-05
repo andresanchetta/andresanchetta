@@ -18,4 +18,4 @@
 
 ## **My projects**
 
-IN PROGRESS.
+* [Imersão Dados 3 - Alura](https://github.com/andresanchetta/Imersao_de_Dados_2021)
