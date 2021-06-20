@@ -18,4 +18,5 @@
 
 ## **My projects**
 
+* [Analise de CNPJ](https://github.com/andresanchetta/Analise_CNPJ)
 * [Imersão Dados 3 - Alura](https://github.com/andresanchetta/Imersao_de_Dados_2021)
